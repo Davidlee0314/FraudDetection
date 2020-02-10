@@ -1,5 +1,5 @@
 # FraudDetection
-This is the #9 solution to machine learning competition related to fraud detection. Please refer to [solution poster](./solution poster.pdf) and [solution ppt](./solution ppt.pdf) for solution writeup.
+This is the #9 solution to machine learning competition related to fraud detection. Please refer to [solution poster](https://github.com/Davidlee0314/FraudDetection/blob/master/solution%20poster.pdf) and [solution ppt](https://github.com/Davidlee0314/FraudDetection/blob/master/solution%20ppt.pdf) for solution writeup.
 
 ## Usage of codes to reproduce our results
 ### 0. Repo Cloning
